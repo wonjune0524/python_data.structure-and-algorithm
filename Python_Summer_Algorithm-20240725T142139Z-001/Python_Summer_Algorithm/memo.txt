@@ -1,0 +1,11 @@
+Name	School	Height	English	Math	Korean	Science	Society	ProgrammingLanguage
+John	School A	178	60	79	76	70	51	Python
+Emma	School B	168	73	87	91	58	69	Java
+Michael	School B	154	85	51	77	88	77	C++
+Sophia	School B	182	89	70	65	67	96	JavaScript
+James	School B	147	73	82	64	53	56	Python
+Olivia	School B	160	52	61	96	74	93	Java
+David	School B	178	71	71	93	63	57	C++
+Isabella	School B	158	51	93	52	99	96	JavaScript
+Daniel	School A	162	73	74	86	58	84	Python
+Mia	School C	150	93	98	56	75	63	Java
